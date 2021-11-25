@@ -1,0 +1,22 @@
+﻿  Bullet.cpp
+  Collision.cpp
+  CsvFiles.cpp
+  Enemy.cpp
+  Game.cpp
+C:\Users\matth\source\repos\SpaceShips\SpaceShips\Game.cpp(841,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\matth\source\repos\SpaceShips\SpaceShips\Game.cpp(852,96): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\matth\source\repos\SpaceShips\SpaceShips\Game.cpp(852,66): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Gift.cpp
+  main.cpp
+  Player.cpp
+  stdafx.cpp
+  Generating Code...
+  SpaceShips.vcxproj -> C:\Users\matth\source\repos\SpaceShips\Debug\SpaceShips.exe
